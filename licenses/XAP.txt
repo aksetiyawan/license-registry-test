@@ -1,0 +1,2 @@
+The software product “eXtreme Application Platform (XAP)” has been either licensed to, or developed by GigaSpaces Technologies Ltd (“GigaSpaces”), which holds all exclusive or respective license rights for the software product. The Licensed Software is licensed by Licensor in accordance with the respective OEM Licensing Agreement between Licensor and GigaSpaces dated 11 February 2015 with all respective addenda thereto (“OEM Agreement”).
+For the Licensed Software use, the appropriate Software License Agreement with Openway must be signed.
